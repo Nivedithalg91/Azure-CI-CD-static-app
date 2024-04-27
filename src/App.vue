@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>GEN AI</h1>
+    <h1>MLOPS & LLOPS Psitron</h1>
 	<h2>Upload your data to get GEN AI predictions</h2>
     <img
       alt="Vue logo"
